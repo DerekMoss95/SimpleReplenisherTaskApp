@@ -1,0 +1,24 @@
+{
+  "name": "SimpleReplenisherTaskApp",
+  "version": "1.0.0",
+  "description": "A simple Node.JS Replenisher Task List application built primarily for Walmart Labs hiring project.",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekMoss95/SimpleReplenisherTaskApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerekMoss95/SimpleReplenisherTaskApp/issues"
+  },
+  "homepage": "https://github.com/DerekMoss95/SimpleReplenisherTaskApp#readme"
+}
