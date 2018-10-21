@@ -4,7 +4,8 @@
   "description": "A simple Node.JS Replenisher Task List application built primarily for Walmart Labs hiring project.",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "react": "^16.5.2"
   },
   "devDependencies": {},
   "scripts": {
